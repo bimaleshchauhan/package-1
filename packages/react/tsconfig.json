@@ -1,0 +1,23 @@
+{
+    "compilerOptions": {
+      "module": "ESNext",
+      "allowJs": true,
+      "checkJs": false,
+      "jsx": "react",
+      "noImplicitAny": true,
+      "removeComments": true,
+      "preserveConstEnums": true,
+      "sourceMap": true,
+      "allowSyntheticDefaultImports": true,
+      "target": "ESNext",
+      "strictNullChecks": true,
+      "noUnusedLocals": true,
+      "noUnusedParameters": true,
+      "declaration": true,
+      "moduleResolution": "node"
+
+    },
+    "include": ["src"],
+    "exclude": ["node_modules", "lib"]
+  }
+  
